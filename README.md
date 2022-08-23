@@ -6,12 +6,12 @@ Repositório sobre minha experiência em infraestrutura como código (IaC) conte
 ### Projeto 1
 Automação simples com script para criação de diretórios, grupos de usuários, usuários e permissões de diretório no Linux.
 
-* [Script do projeto 1]().
+* [Script do projeto 1](https://github.com/euvictorhfs/dio-linux-iac/blob/main/iac1-project/user-groups.sh).
 
 ### Projeto 2
 Automação simples com script para atualização do Linux, instalação de pacotes (apache2, unzip e wget), download de arquivos de repositório no GitHub do professor e provisionamento dos arquivos para ambiente localhost.
 
-* [Script do projeto 2]().
+* [Script do projeto 2](https://github.com/euvictorhfs/dio-linux-iac/blob/main/iac2-project/website-apache-dio.sh).
 
 ## Sobre o Linux Experience
 Este programa é para profissionais de tecnologia que querem aperfeiçoar seus conhecimentos no sistema operacional Linux em uma trilha imersiva, rápida e eficiente.
